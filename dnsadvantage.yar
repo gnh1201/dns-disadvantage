@@ -1,7 +1,7 @@
 rule Privacy_LMT_Neuster_SSL_Forced_Decryption {
     meta:
         author      = "gnh1201@gmail.com"
-        description = "Forced Website SSL Decryption via Lockheed Martin/Neuster DNS"
+        description = "Forced Website SSL Decryption via Lockheed Martin/Neuster DNS (search.dnsadvantage.com)"
         firstseen   = "2009-09-28"
         modified    = "2021-10-05"
         reference   = "https://github.com/gnh1201/do-not-dnsadvantage"

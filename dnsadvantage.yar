@@ -4,7 +4,7 @@ rule Privacy_LMT_Neuster_SSL_Forced_Decryption {
         description = "Forced Website SSL Decryption via Lockheed Martin/Neuster DNS"
         firstseen   = "2009-09-28"
         modified    = "2021-10-05"
-        reference   = "https://github.com/gnh1201/dnsadvantage-ssl-decryption"
+        reference   = "https://github.com/gnh1201/do-not-dnsadvantage"
 
     strings:
         $text_string = "search.dnsadvantage.com"

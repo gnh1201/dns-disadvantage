@@ -8,5 +8,5 @@ Potential threat elimination for `search.dnsadvantage.com`
 They intercepted domain access using DNS. It is the same principle that they provide DDoS defense services. SSL certificate errors occur in this process, but most users ignore them.
 
 ## See also
-  * Rockheed Martin
+  * Lockheed Martin
   * Neuster

@@ -1,4 +1,4 @@
-# do-not-dnsadvantage
+# dns-disadvantage
 Potential threat elimination for `search.dnsadvantage.com`
 
 ## What is this?
